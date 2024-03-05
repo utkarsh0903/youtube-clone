@@ -1,0 +1,9 @@
+# VS Code settings
+/.vscode           
+
+/.node_modeules
+
+
+*.env
+.env
+.env.*
